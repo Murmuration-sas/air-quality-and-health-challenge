@@ -1,8 +1,8 @@
-AOIs_bboxes\
-training_dataset_ita\
-training_dataset_usa\
-training_dataset_south_africa\
-validation_dataset_ita\
-validation_dataset_usa\
-validation_dataset_south_africa\
+AOIs_bboxes
+training_dataset_ita
+training_dataset_usa
+training_dataset_south_africa
+validation_dataset_ita
+validation_dataset_usa
+validation_dataset_south_africa
 ai4eo-public.tar
